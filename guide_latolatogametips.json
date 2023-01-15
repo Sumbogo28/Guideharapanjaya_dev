@@ -3,18 +3,18 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"-",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"-",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -28,68 +28,67 @@
    "More": [
     {
       "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+      "title": "",
+      "image": ""
     },
     {
       "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+      "title": "",
+      "image": "",
+      "link": ""
     },
     {
       "id": 3,
-      "title": "Nova Skin for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+      "title": "",
+      "image": "",
+      "link": ""
     },
     {
       "id": 4,
-      "title": "Scanner Document App - HD PDF",
-      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+      "title": "",
+      "image": "",
+      "link": ""
     },
     {
       "id": 6,
-      "title": "Super Math Solver Calculator",
-      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+      "title": "",
+      "image": "",
+      "link": ""
     },
     {
       "id": 8,
-      "title": "Twibbon Maker",
-      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+      "title": "",
+      "image": "",
+      "link": ""
     },
     {
       "id": 9,
-      "title": "Kamus Bahasa Indonesia",
-      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+      "title": "",
+      "image": "",
+      "link": ""
     },
     {
       "id": 10,
-      "title": "Data Gempabumi Terbuka",
-      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+      "title": "",
+      "image": "",
+      "link": ""
     }
   ],
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
+      "name_category": "Lato Lato Viral",
+      "image": "https://img.sportstars.id/2022/12/1X34Yd/master_1p82fLh7n0_1483_cara_main_lato_lato_beserta_harganya.jpg"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
+      "name_category": "Tutorial Lato Lato",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/0x0/webp/photo/2023/01/08/3173401429.jpg"
     },
     {
       "id": 3,
-      "name_category": "Reskin",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+      "name_category": "Teknik Lato Lato",
+      "image": "https://radarkudus.jawapos.com/wp-content/uploads/2023/01/Lato-lato-dilarang-600x403.jpg"
     }
   ],
   "Data": [
@@ -97,33 +96,218 @@
       "id": 1,
       "name_category": "Lato Lato Viral",
       "title": "Permainan Lato Lato yang Viral",
-      "image": "https://statics.indozone.news/content/2022/12/22/XxsdeEy/viral-di-tiktok-apa-itu-lato-lato-ini-penjelasan-lengkapnya88_700.jpg",
+      "image": "https://beritainhu.co/assets/berita/original/24352368886-sa5d623835f2f421aa89e30d495faa1ec4.jpg",
       "description": "Belakangan ini media sosial diramaikan dengan gambar dan video anak-anak yang sedang bermain lato-lato yang menyita perhatian publik hingga membuat penasaran publik tentang apa itu lato-lato.",
       "link": "https://guidelatolato2023.blogspot.com/p/fgdrfgdfg.html"
+	  
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
-      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+      "name_category": "Lato Lato Viral",
+      "title": "Manfaat Bermain Lato Lato",
+      "image": "https://media.suara.com/pictures/653x366/2023/01/10/79771-lato-lato-sejarah-lato-lato.jpg",
+      "description": "Main lato lato dapat melatih kemampuan motorik anak dengan lebih baik lagi dari pada sebelumnya.",
+      "link": "https://guidelatolato2023.blogspot.com/p/manfaat-bermain-lato-lato.html"
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "name_category": "Lato Lato Viral",
+      "title": "Perbandingan Lato Lato vs Handphone",
+     "image": "https://assets.promediateknologi.com/crop/0x0:0x0/750x500/photo/2023/01/11/484682722.jpeg",
+      "description": "Segi positifnya ketergantungan anak pada handphone (HP) menjadi berkurang. Dulunya waktu untuk main HP sekarang pindah ke lato-lato. Permainan lato-lato bisa menjadi sarana anak berolahraga, belajar konsentrasi secara murah, ",
+      "link": "https://guidelatolato2023.blogspot.com/p/perbandingan-lato-lato-vs-handphone.html"
     },
     {
       "id": 4,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
-    }
+      "name_category": "Lato Lato Viral",
+      "title": "Lato Lato Sebagai Media Belajar",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/750x500/photo/2023/01/09/4117528790.jpeg",
+      "description": "Saat ini mulai banyak imbauan dari otoritas pendidikan setempat agar permainan lato-lato tidak dibawa ke sekolah. Imbauan itu kemudian diterjemahkan sebagai larangan. ",
+      "link": "https://guidelatolato2023.blogspot.com/p/lato-lato-sebagai-media-belajar.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Lato Lato Viral",
+      "title": "Fenomena Bermainan Lato Lato",
+      "image": "https://cdn-2.tstatic.net/suryamalang/foto/bank/images/Permainan-Latto-Latto-berbahaya-terungkap-cerita-sejarah-tragis-sampai-dihentikan-menelan-korban.jpg",
+      "description": "Pada tahun 1971, di Italia, mainan latto-latto yang sebelumnya dikenal bising yang mengganggu berubah menjadi olahraga yang diakui. Pada tahun tersebut permainan berisik ini dianggap tak mengganggu dalam negeri Italia bahkan menjadi olahraga yang diakui.",
+      "link": "https://guidelatolato2023.blogspot.com/2023/01/fenomena-bermainan-lato-lato.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Lato Lato Viral",
+      "title": "Lato Lato Dari Segi Psikologi",
+      "image": "https://fin.co.id/upload/12e41dbb6460d73d7a7f189de6048b69.jpg",
+      "description": "Menurut Psikolog Klinis, Danang Baskoro, M.Psi., Psikolog, setiap permainan anak umumnya memiliki manfaat dalam perkembangan anak. Permainan lato-lato sendiri dapat menstimulasi otak sehingga menjadi berkembang dan lebih trampil.",
+      "link": "https://guidelatolato2023.blogspot.com/p/lato-lato-dari-segi-psikologi.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Lato Lato Viral",
+      "title": "Lato Lato Dari Segi Fisika",
+      "image": "https://cdn.antaranews.com/cache/730x487/2023/01/10/InShot_20230101_155402313.jpg",
+      "description": "Awalnya, permainan ini diciptakan bukan sebagai mainan, melainkan memang sebagai alat pembelajaran ilmu fisika. Bandulan plastik tersebut digunakan untuk menjelaskan pada anak mengenai Hukum Newton.",
+      "link": "https://guidelatolato2023.blogspot.com/p/lato-lato-dari-segi-fisika.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Lato Lato Viral",
+      "title": "Teknik Paling Dasar Bermain Lato Lato",
+      "image": "https://image.akurat.co/uploads/images/2023/01/big/img_63b79e9bb77ba4-62898942-92479710.jpeg",
+      "description": "Untuk memainkan permainan ini kalian harus menguasai teknik dasar permaian ini terlebih dahulu, yaitu gerakan ke kira dan kanan. aktifitas ini untuk pembiasaan dengan lato-lato sekaligus untuk meminimalisir terjadinya memar.",
+      "link": "https://guidelatolato2023.blogspot.com/p/teknik-paling-dasar-bermain-lato-lato.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Lato Lato Viral",
+      "title": "Cara Pemasangan Tali Lato Lato Terbaik",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/0x0/webp/photo/2023/01/02/1172775939.jpeg",
+      "description": "Untuk memasang pegangan latto latto jangan menarik full sisakan sedikit dan dibuka kedua tali ujung dua ini masukkan ke dalam dan ditarik sampai kuat jaga keseimbangan di ujung untuk mengikuti bagian ujung bola ini sudah ada lubangnya kita tinggal memasukkan talinya dengan mengikat kuat",
+      "link": "https://guidelatolato2023.blogspot.com/p/cara-pemasangan-tali-lato-lato-terbaik.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Lato Lato Viral",
+      "title": "Bermain Lato Lato Pemula Sampai Mahir",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/750x500/photo/2022/12/20/442171453.png",
+      "description": "Teknik pertama yang biasa digunakan pada saat ingin memulai memainkan latto-latto adalah jari dijepit bagian tengah tali, dan diayunkan hingga dua bola di ujung saling bertabrakan dan kalau bisa, membentuk sebuah lingkaran vertikal sempurna.",
+      "link": "https://guidelatolato2023.blogspot.com/p/bermain-lato-lato-pemula-sampai-mahir.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Tutorial Lato Lato",
+      "title": "Manfaat Main Lato Lato Bagi Anak",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/0x0/webp/photo/2023/01/09/4065031269.jpg",
+      "description": "Walau belum ada penelitian yang mumpuni untuk meneliti tentang permainan ini, banyak manfaat yang diklaim dapat didapat dari Lato-lato. Berikut beberapa di antaranya!",
+      "link": "https://guidelatolato2023.blogspot.com/2023/01/manfaat-main-lato-lato-bagi-anak.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Tutorial Lato Lato",
+      "title": "Teknik - Teknik Bermain Lato Lato",
+      "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gnbna6rjmqrc2fexnrrv7bha.jpg",
+      "description": "Permainan latto latto atau clackers ball mendadak viral di TikTok. Permainan era 60-an ini langsung banyak dimainkan oleh anak-anak dan remaja. Bagaimana cara main latto latto yang benar?",
+      "link": "https://guidelatolato2023.blogspot.com/p/manfaat-main-lato-lato-bagi-anak.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Tutorial Lato Lato",
+      "title": "Cara Pemasangan Bola Dan Tali Lato Lato",
+      "image": "https://images.bisnis.com/posts/2023/01/09/1616277/lato-lato.jpg",
+      "description": "Tali perlu kuat dipasang agar bola tidak terlempar dan tidak menganggu permaian. Ratakan tali dan siapkan bola",
+      "link": "https://guidelatolato2023.blogspot.com/2023/01/cara-pemasangan-bola-dan-tali-lato-lato.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Tutorial Lato Lato",
+      "title": "Langkah Langkah Bermain Lato Lato",
+      "image": "https://www.bualbual.com/assets/berita/original/71282699750-images_(98).jpeg",
+      "description": "Masukkan jari telunjuk kanan diantara celah tali atau tepat di tengah-tengah. Buat ikatan dengan cara memutar tali pengait berbentuk cincin. Posisikan tangan seperti akan berjabat tangan saat memegang lato lato.",
+      "link": "https://guidelatolato2023.blogspot.com/p/langkah-langkah-bermain-lato-lato.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Tutorial Lato Lato",
+      "title": "Apa itu Lato Lato",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/12/29/671179106.jpg",
+      "description": "Lato-lato merupakan sebuah permainan sederhana yang terbuat dari sepasang bola kecil dan terikat dengan seutas tali. Cara memainkan lato-lato adalah dengan membenturkan kedua bola kecil tersebut berkali-kali tanpa berhenti. Siapa yang berhasil memainkannya paling lama, maka ia lah pemenangnya. ",
+      "link": "https://guidelatolato2023.blogspot.com/p/apa-itu-lato-lato.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Tutorial Lato Lato",
+      "title": "Fakta Fakta Tentang Lato Lato",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/0x0/webp/photo/2023/01/04/3982778900.jpg",
+      "description": "Fakta nya sebelum ke Cara Main Lato Lato. Berikut beberapa fakta tentang permainan ini.",
+      "link": "https://guidelatolato2023.blogspot.com/p/fakta-fakta-tentang-lato-lato.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Tutorial Lato Lato",
+      "title": "Asal Muasal Permainan Lato Lato",
+      "image": "https://images.bisnis.com/posts/2023/01/09/1616277/lato-lato.jpg",
+      "description": "Kamu mencari Cara Main Lato Lato kamu juga penasaran dengan asal permainan ini. Karena permain ini yang cukup unik untuk bermain nya.",
+      "link": "https://guidelatolato2023.blogspot.com/2023/01/asal-muasal-permainan-lato-lato.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Tutorial Lato Lato",
+      "title": "Asal Muasal Permainan Lato Lato",
+      "image": "https://assets.promediateknologi.com/crop/0x22:703x674/0x0/webp/photo/2022/12/29/380486728.jpg",
+      "description": "ketika kamu mencari Cara Main Lato Lato kamu juga penasaran dengan asal permainan ini. Karena permain ini yang cukup unik untuk bermain nya.",
+      "link": "https://guidelatolato2023.blogspot.com/2023/01/asal-muasal-permainan-lato-lato.html"
+    },
+    {
+      "id": 19,
+      "name_category": "Tutorial Lato Lato",
+      "title": " Coba Kenal Lato Lato Lebih Dalam",
+      "image": "https://public.urbanasia.com/images/post/2023/01/09/1673246636-Lato-lato.jpeg",
+      "description": "Sebelumnya mainan ini sudah viral di luar Indonesia. Dikutip dari Groovy History, di Amerika Serikat mereka menamai clackers, click-clacks, knockers, Ker-Bangers dan clankers yang tren di tahun 60-an dan 70-an.",
+      "link": "https://guidelatolato2023.blogspot.com/p/coba-kenal-lato-lato-lebih-dalam.html"
+     },
+    {
+      "id": 20,
+      "name_category": "Teknik Lato Lato",
+      "title": " Tips Cepat Bermain Lato Lato 2023",
+      "image": "https://mmc.tirto.id/image/otf/500x0/2022/12/31/antarafoto-penjualan-mainan-latto-latto-251222-ans-2_ratio-16x9.jpg",
+      "description": "Berikut cara memainkan Lato-Lato agar menghasilkan ritme yang cepat serta lama dengan mudah dilansir dari akun Youtube",
+      "link": "https://guidelatolato2023.blogspot.com/p/tips-cepat-bermain-lato-lato-2023.html"
+     },
+    {
+      "id": 21,
+      "name_category": "Teknik Lato Lato",
+      "title": "Penasaran Lato Lato Berasal Dari Daerah Mana",
+      "image": "https://www.konteks.co.id/wp-content/uploads/2023/01/lato-lato-1-1159x800.jpg",
+      "description": "Lato Lato sendiri namanya berasal dari bahasa bugis di daerah Makassar. Tetapi aslinya permainan ini berasal dari negara Amerika dengan nama clackers yang terbuat dari kaca",
+      "link": "https://guidelatolato2023.blogspot.com/p/lato-lato-berasal-dari-daerah-mana-lato.html"
+     },
+    {
+      "id": 22,
+      "name_category": "Teknik Lato Lato",
+      "title": "Harga Lato Lato",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/0x0/webp/photo/2023/01/02/1072090328.jpg",
+      "description": "Harga lato Lato ini sendiri berbeda beda menyesuaikan dengan tempat ataupun wilayah kamu masing-masing. Tapi pastinya tetap terjangkau untuk di beli.",
+      "link": "https://guidelatolato2023.blogspot.com/p/harga-lato-lato.html"
+     },
+    {
+      "id": 23,
+      "name_category": "Teknik Lato Lato",
+      "title": " Cara Memegang Lato Lato",
+      "image": "https://images.solopos.com/2023/01/LOMBA-LATO-LATO-2.jpg",
+      "description": "Hal yang cukup penting dalam bermain latto latto adalah cara memegangnya. Cara memegang sangat bisa menentukan kamu bisa atau tidaknya bermain latto latto. pegang latto latto sangat mempengaruhi keseimbangan bola.",
+      "link": "https://guidelatolato2023.blogspot.com/p/cara-memegang-lato-lato.html"
+     },
+    {
+      "id": 24,
+      "name_category": "Teknik Lato Lato",
+      "title": "5 Menit Jago Bermain Lato Lato",
+      "image": "https://assets.promediateknologi.com/crop/10x449:719x870/0x0/webp/photo/2022/12/31/4135253100.jpg",
+      "description": "Kita dikatakan bisa main latto latto ketika kita berhasil menyeimbangkan 2 bola hingga terus beradu dari bawah keatas tanpa henti. Kalau hanya sekali dua kali saja berarti kamu belum bisa main latto latto. Memang untuk pemula pasti sangat kesusahan untuk bermain latto latto ini. ",
+      "link": "https://guidelatolato2023.blogspot.com/p/5-menit-jago-bermain-lato-lato.html"
+     },
+    {
+      "id": 25,
+      "name_category": "Teknik Lato Lato",
+      "title": "Tips dan Trik Menyeimbangkan Lato Lato",
+      "image": "https://images.solopos.com/2023/01/LOMBA-LATO-LATO-2.jpg",
+      "description": "Hal yang cukup penting dalam bermain latto latto adalah cara memegangnya. Cara memegang sangat bisa menentukan kamu bisa atau tidaknya bermain latto latto. pegang latto latto sangat mempengaruhi keseimbangan bola.",
+      "link": "https://guidelatolato2023.blogspot.com/p/tips-dan-trik-menyeimbangkan-lato-lato.html"
+     },
+    {
+      "id": 26,
+      "name_category": "Teknik Lato Lato",
+      "title": "Sejarah Singkat Lato Lato",
+      "image": "https://img.sportstars.id/mpi/700//2022/12/O3O33Y/master_2HG000N1cK_1055_lato_lato_sumber_instagram.jpg",
+      "description": "Lato-lato adalah permainan yang menjadi viral di Amerika Serikat pada akhir 1960-an dan awal 1970-an. Itu sangat viral saat itu.",
+      "link": "https://guidelatolato2023.blogspot.com/p/sejarah-singkat-lato-lato.html"
+     },
+    {
+      "id": 27,
+      "name_category": "Teknik Lato Lato",
+      "title": "Tips Bermain Lato Lato Yang Aman",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/0x0/webp/photo/2023/01/09/593733690.jpg",
+      "description": "Agar bisa bermain dengan aman, simak panduan cara main latto latto yang benar di bawah ini: Posisikan kedua bola segaris lurus atau sembang. Jepit bagian tengah tali atau masukkan jari ke dalam cincin latto latto",
+      "link": "https://guidelatolato2023.blogspot.com/p/tips-bermain-lato-lato-yang-aman.html"
+     }
   ]
 }
